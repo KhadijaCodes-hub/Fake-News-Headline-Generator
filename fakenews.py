@@ -6,12 +6,12 @@ subjects=[
     "Shahrukh Khan",
     "A group of monkeys",
     "A cat in India",
-    "Prime Mininster",
+    "Prime Minister",
     "Hania Amir",
     "Ambaani",
     "A boy of Pakistan",
     "Buffaloes of Africa",
-    "Antractica Penguins",
+    "Antarctica Penguins",
     "Salman Khan",
 ]
 actions=[
@@ -20,7 +20,7 @@ actions=[
     "Declares",
     "Dances with",
     "Falls in love",
-    "Murdered",
+    "Murders",
     "Enjoys",
     "Celebrates",
     "Is chilling",
@@ -35,7 +35,7 @@ objects=[
     "Noodles.",
     "during PSL Match.",
     "Kuch kuch hota hai movie.",
-    "Aerpplane.",
+    "Aeroplane.",
     "At mountains.",
 ]
 print("Welcome to FAKE NEWS HEADLINE GENERATOR.")
