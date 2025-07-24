@@ -1,4 +1,7 @@
+# Import a random module
 import random
+
+# Make lists of subjects,actions,objects
 subjects=[
     "Shahrukh Khan",
     "A group of monkeys",
@@ -36,6 +39,7 @@ objects=[
     "At mountains.",
 ]
 print("Welcome to FAKE NEWS HEADLINE GENERATOR.")
+# Use while loop to generate multiple headlines until the user says no
 while True:
     subject=random.choice(subjects)
     action=random.choice(actions)
