@@ -1,12 +1,4 @@
-Perfect, Khadija 👏 — ab main tumhe **poora complete `README.md` code** de raha hoon,
-jisme ✅ Installation ka code block **properly band** hai
-aur ✅ baaki Example Output, Tech Stack, File Structure, Author sab kuch included hai.
 
-Bas isay **as-is copy-paste** karke apni `README.md` file me daal do 💪
-
----
-
-````markdown
 # 📰 Fake News Headline Generator
 
 A fun Python project that randomly generates **fake, hilarious news headlines** using random subjects, actions, and objects. Every time you run it, you get a new breaking news story!
@@ -77,12 +69,6 @@ Thank you for watching our Fake News Headlines! Have a Fun Day.
 
 ---
 
-## 🧑‍💻 Author
 
-**Khadija**
-🌐 [GitHub](https://github.com/KhadijaCodes-hub)
 
-````
-
----
 
