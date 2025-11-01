@@ -28,7 +28,7 @@ A fun Python project that randomly generates **fake, hilarious news headlines** 
 Clone the repository and navigate to the folder:
 
 ```bash
-git clone https://github.com/yourusername/fake-news-headline-generator.git
+git clone https://github.com/KhadijaCodes-hub/fake-news-headline-generator.git
 cd fake-news-headline-generator
 ````
 
