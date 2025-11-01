@@ -14,9 +14,9 @@ A fun Python project that randomly generates **fake, hilarious news headlines** 
 
 ## 🧠 How It Works
 1. The program randomly picks:
-   - One **subject** (like “Shahrukh Khan” or “A cat in India”)
-   - One **action** (like “dances with” or “declares”)
-   - One **object** (like “near Minar-e-Pakistan.” or “a plate of samosa.”)
+   - One **subject** (like "Shahrukh Khan" or "A cat in India")
+   - One **action** (like "dances with" or "declares")
+   - One **object** (like "near Minar-e-Pakistan." or "a plate of samosa.")
 2. It combines them into a **funny fake headline**.
 3. You can keep generating new headlines until you type `no`.
 
@@ -28,29 +28,5 @@ Clone the repository and navigate to the folder:
 
 ```bash
 git clone https://github.com/yourusername/fake-news-headline-generator.git
-cd fake-news-headline-generator 
-
----
-
-## 🧩 Example Output
-BREAKING NEWS: Hania Amir dances with a plate of samosa.
-
----
-
-## 🧰 Tech Stack
-- Python 3  
-- random module
-
----
-
-## 📄 File Structure
-📦 Fake-News-Headline-Generator  
- ┣ 📜 fakenews.py  
- ┗ 📜 README.md
-
----
-
-## 🧑‍💻 Author
-**Khadija**  
-🌐 [GitHub](https://github.com/KhadijaCodes-hub)
+cd fake-news-headline-generator
 
