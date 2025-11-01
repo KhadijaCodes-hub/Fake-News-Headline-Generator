@@ -28,4 +28,29 @@ Clone the repository and navigate to the folder:
 
 ```bash
 git clone https://github.com/yourusername/fake-news-headline-generator.git
-cd fake-news-headline-generator
+cd fake-news-headline-generator 
+
+---
+
+## 🧩 Example Output
+BREAKING NEWS: Hania Amir dances with a plate of samosa.
+
+---
+
+## 🧰 Tech Stack
+- Python 3  
+- random module
+
+---
+
+## 📄 File Structure
+📦 Fake-News-Headline-Generator  
+ ┣ 📜 fakenews.py  
+ ┗ 📜 README.md
+
+---
+
+## 🧑‍💻 Author
+**Khadija**  
+🌐 [GitHub](https://github.com/KhadijaCodes-hub)
+
